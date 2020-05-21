@@ -2953,7 +2953,6 @@ article.special {
 header p {
     position: relative;
     margin: 0 0 1.5rem 0;
-    text-align: center;
 }
 
 header h1 + p {
@@ -2964,7 +2963,6 @@ header h1 + p {
 header h2 + p {
     font-size: 1.25rem;
     margin-top: -1rem;
-    text-align: justify;
 }
 
 header h3 + p {
@@ -4522,12 +4520,10 @@ body {
     #wrapper {
         max-width: calc(100% - 5rem);
         padding: 2.5rem 0;
-        font-size: 12;
     }
 
     #wrapper > * {
         margin: 2.5rem 0 0 0;
-        text-transform: none;
     }
 }
 
