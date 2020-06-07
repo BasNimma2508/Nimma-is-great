@@ -2561,7 +2561,6 @@ span.icon:before {
 
 .icon.accent2 {
     color: #a7b58f;
-    text-align: center;
 }
 
 .icon.accent3 {
@@ -2966,7 +2965,7 @@ header h1 + p {
 header h2 + p {
     font-size: 1.25rem;
     margin-top: -1rem;
-    text-align: center;
+    text-align: justify;
 }
 
 header h3 + p {
@@ -3413,12 +3412,10 @@ body.is-preload .banner .actions {
 
 .features > section:nth-child(3n - 2) {
     border-left-width: 0;
-    text-align: center;
 }
 
 .features > section:nth-child(-n + 3) {
     border-top-width: 0;
-    text-align: center;
 }
 
 .features > section h3 {
@@ -3482,7 +3479,6 @@ body.is-preload .banner .actions {
 
 .features > section {
     border-color: #dde1eb;
-    text-align: center;
 }
 
 /* Posts */
